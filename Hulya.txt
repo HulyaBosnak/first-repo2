@@ -1,7 +1,3 @@
 My name is Hulya.
-
-<<<<<<< HEAD
-Update with Tortoise…     +++****
-=======
-Update with Tortoise…   ???????
->>>>>>> 6cdafa4740d82952f605eeaf6e79caf994979934
+Update with Tortoise… 
+Update with Tortoise…   
